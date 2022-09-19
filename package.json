@@ -1,0 +1,23 @@
+{
+  "name": "mongo-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreshi/mongo-mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dreshi/mongo-mongoose/issues"
+  },
+  "homepage": "https://github.com/Dreshi/mongo-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  }
+}
